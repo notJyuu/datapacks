@@ -59,8 +59,11 @@ A heart of the sea can be crafted from a Nether star and four buckets of fish: o
 A heavy core can be crafted from a Nether star and eight obsidian.
 
 ## discs_pattern_crafting:
-globe banner pattern is in vanilla as a master cartographer trade, (disabled by default) recipe added for consistency to make all banner craftable.
+Globe banner pattern is in vanilla as a master cartographer trade, (disabled by default) recipe added for consistency to make all banner craftable.
 
-all discs obtainable through vanilla means do not have a recipe in this case to encourage other ways of disc farming.
+All discs obtainable through vanilla means do not have a recipe in this case to encourage other ways of disc farming.
 
 ## lightning_conversion
+Adult piglins will be converted into piglin brutes when struck by lightning.
+
+Guardians will be converted into elder guardians when struck by lightning.
