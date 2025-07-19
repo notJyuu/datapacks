@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"-#",
+		"#-"
+	],
+	"key": {
+		"-": "minecraft:nether_wart_block",
+		"#": "minecraft:deepslate"
+	},
+	"result": {
+		"id": "minecraft:netherrack",
+		"count": 4
+	}
+}

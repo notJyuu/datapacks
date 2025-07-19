@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"#-#",
+		"-#-",
+		"#-#"
+	],
+	"key": {
+		"-": "minecraft:raw_gold",
+		"#": "minecraft:stone"
+	},
+	"result": {
+		"id": "minecraft:gold_ore"
+	},
+	"group": "ore"
+}

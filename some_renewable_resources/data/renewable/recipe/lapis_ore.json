@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"#-#",
+		"-#-",
+		"#-#"
+	],
+	"key": {
+		"-": "minecraft:lapis_block",
+		"#": "minecraft:stone"
+	},
+	"result": {
+		"id": "minecraft:lapis_ore"
+	},
+	"group": "ore"
+}

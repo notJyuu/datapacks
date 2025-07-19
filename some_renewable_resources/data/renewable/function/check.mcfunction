@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:wandering_trader, tag=!renewable_trades_added] run function everything_renewable:add_wandering_trades

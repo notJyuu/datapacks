@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"#-#",
+		"-#-",
+		"#-#"
+	],
+	"key": {
+		"-": "minecraft:redstone_block",
+		"#": "minecraft:stone"
+	},
+	"result": {
+		"id": "minecraft:redstone_ore"
+	},
+	"group": "ore"
+}

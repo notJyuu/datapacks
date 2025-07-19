@@ -1,0 +1,84 @@
+{
+	"type": "minecraft:gift",
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls": 0,
+			"entries": [
+				{
+					"type": "minecraft:alternatives",
+					"children": [
+						{
+							"type": "minecraft:tag",
+							"name": "everything_renewable:desert_pottery_sherds",
+							"expand": true,
+							"conditions": [
+								{
+									"condition": "minecraft:location_check",
+									"predicate": {
+										"biomes": "minecraft:desert"
+									}
+								}
+							]
+						},
+						{
+							"type": "minecraft:tag",
+							"name": "everything_renewable:warm_ocean_pottery_sherds",
+							"expand": true,
+							"conditions": [
+								{
+									"condition": "minecraft:location_check",
+									"predicate": {
+										"biomes": "minecraft:warm_ocean"
+									}
+								}
+							]
+						},
+						{
+							"type": "minecraft:tag",
+							"name": "everything_renewable:cold_ocean_pottery_sherds",
+							"expand": true,
+							"conditions": [
+								{
+									"condition": "minecraft:location_check",
+									"predicate": {
+										"biomes": [
+											"minecraft:cold_ocean",
+											"minecraft:deep_cold_ocean"
+										]
+									}
+								}
+							]
+						},
+						{
+							"type": "minecraft:tag",
+							"name": "everything_renewable:woodland_pottery_sherds",
+							"expand": true,
+							"conditions": [
+								{
+									"condition": "minecraft:location_check",
+									"predicate": {
+										"biomes": [
+											"minecraft:jungle",
+											"minecraft:old_growth_birch_forest",
+											"minecraft:old_growth_pine_taiga",
+											"minecraft:old_growth_spruce_taiga",
+											"minecraft:snowy_taiga",
+											"minecraft:taiga"
+										]
+									}
+								}
+							]
+						},
+						{
+							"type": "minecraft:tag",
+							"name": "everything_renewable:any_biome_pottery_sherds",
+							"expand": true
+						}
+					]
+				}
+			]
+		}
+	],
+	"random_sequence": "everything_renewable:pottery_sherds_by_biome"
+}

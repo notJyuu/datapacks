@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"#-#",
+		"-#-",
+		"#-#"
+	],
+	"key": {
+		"-": "minecraft:raw_iron",
+		"#": "minecraft:deepslate"
+	},
+	"result": {
+		"id": "minecraft:deepslate_iron_ore"
+	},
+	"group": "ore"
+}
