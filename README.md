@@ -53,10 +53,13 @@ A Piglin Brute has a chance to drop ancient debris when killed by a player, loot
 An Ender Dragon drops a dragon head and a pair of elytra, and it has a 1⁄5 chance of dropping a dragon egg.
 
 A Wither drops some diamonds on death (in addition to the Nether star).
+
+Husks drops some sand on death, sand is renewable using gravity dupe but it is not a intended mechanic.
     
 A heart of the sea can be crafted from a Nether star and four buckets of fish: one cod, one salmon, one tropical fish, and one pufferfish.
 
 A heavy core can be crafted from a Nether star and eight obsidian.
+
 
 ## discs_pattern_crafting:
 Globe banner pattern is in vanilla as a master cartographer trade, (disabled by default) recipe added for consistency to make all banner craftable.
