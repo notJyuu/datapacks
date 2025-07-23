@@ -64,7 +64,19 @@ A heavy core can be crafted from a Nether star and eight obsidian.
 ## discs_pattern_crafting:
 Globe banner pattern is in vanilla as a master cartographer trade, (disabled by default) recipe added for consistency to make all banner craftable.
 
+flow_banner_pattern (previously only obtained through ominous vaults)
+guster_banner_pattern (previously only obtained through trial chamber vaults)
+piglin_banner_pattern [Snout] (previously only found in bastions)
+
 All discs obtainable through vanilla means do not have a recipe in this case to encourage other ways of disc farming.
+
+music_disc_5 (previously only crafted from disc fragments found in ancient cities)
+music_disc_creator (previously only obtained through ominous vaults)
+music_disc_creator_music_box (previously only obtained through trial chamber pots)
+music_disc_otherside (previously found in loot chests in various structures)
+music_disc_pigstep (previously only found in bastions)
+music_disc_precipice (previously only obtained through trial chamber vaults)
+music_disc_relic (previously found by brushing suspicious gravel)
 
 ## lightning_conversion
 Adult piglins will be converted into piglin brutes when struck by lightning.
