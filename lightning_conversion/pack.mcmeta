@@ -1,6 +1,6 @@
  {
        "pack": {
-           "pack_format": 81,
-           "description": "Turns guardians into elder guardians when lightning strikes near by"
+           "pack_format": 82,
+           "description": "Elder Guardian and Piglin Brutes from lightning strikes"
        }
    }
