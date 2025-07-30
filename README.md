@@ -35,7 +35,7 @@ Four netherrack can be crafted from two nether wart blocks and two deepslate.
 
 Gilded blackstone can be crafted from one blackstone and eight gold nuggets.
 
-Iron, gold, and diamond horse armor can be crafted from six iron ingots, gold ingots, or diamonds in an 'h' shape and a saddle in the bottom-center.
+copper, Iron, gold, and diamond horse armor can be crafted from six iron ingots, gold ingots, or diamonds in an 'h' shape and a saddle in the bottom-center.
 
 All pottery sherds can be given as gifts by mason villagers. The available sherds depend on the biome. In biomes without archeological structures, the trial chamber sherds (flow, guster, scrape) are given instead.
 
