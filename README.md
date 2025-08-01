@@ -1,83 +1,103 @@
-# Datapacks
-datapacks used in the JyuuTech world
-## some_renewable_resources:
-Spore blossoms may be offered by wandering traders (in addition to their usual trades). This has a 50% chance of occurring.
+# 🌿 Minecraft Renewable Everything Datapacks
 
-Tall grass and large ferns can be obtained by breaking their bottom half with shears, breaking the top half will still drop their one block counterparts.
+A collection of three Minecraft datapacks designed to make nearly **every item renewable or farmable** in **Survival Mode**, while preserving game balance and the vanilla feel. Great for long-term survival worlds, skyblock challenges, or anyone who wants full self-sufficiency.
 
-Dead bushes can be smelted from peonies, lilacs, or rose bushes. (all 2 block tall flowers)
+## 📦 Included Datapacks
 
-Suspicious gravel and suspicious sand can be duplicated by crafting them together with gravel or sand.
-The initial ones are obtained by dropping the suspicious blocks for > 600 game ticks, using a bubble column or 2 cobwebs.
-(Note that player-placed suspicious blocks don't drop goodies when brushed.)
+| Datapack                       | Description                                                                                                           |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| **`some_renewable_resources`** | Adds new mechanics, recipes, and mob drops to make formerly non-renewable items renewable in survival.                |
+| **`discs_pattern_crafting`**   | Adds recipes for rare banner patterns and music discs to make them obtainable without structure RNG.                  |
+| **`lightning_conversion`**     | Adds new lightning-based transformations for mobs to unlock rare variants through automation or weather manipulation. |
 
-Two raw copper, raw iron, or raw gold can be crafted with a piece of flint and two copper, iron, or gold ingots.
-Deepslate can be smelted from smooth stone.
+---
 
-2 Andesite & 2 Deepslate can be crafted into 4 pieces of Tuff.
+## 🧰 Installation
 
-Four Tuff can be crafted from two pieces andesite and two pieces Deepslate.
+1. Download the desired datapack `.zip` file(s).
+3. Place them in your world save under:
+   `/.minecraft/saves/YourWorld/datapacks/`
+4. Enter the world and run `/reload`
 
-Coal, iron, gold, diamond, lapis lazuli, and emerald ores can be crafted from four coal, raw iron, raw gold, diamonds, lapis blocks, or emeralds and five stone. 
+---
 
-Copper ore can be crafted from two raw copper blocks, two raw copper, and five stone. (copper is more expensive as they drop multiple raw ores even without fortune)
+## ⚙️ Compatibility
 
-Redstone ore can be crafted from one redstone block and eight stone. (redstone is more expensive as they drop multiple dust even without fortune)
+* ✅ Minecraft Java Edition: 1.21+
+* ❌ May not work for modded environments that change vanilla gameplay interactions
+* ⚠️ May conflict with other datapacks that modify villager trades, crafting recipes, or loot tables
 
-### All deepslate ores can be crafted in the same way as their ordinary counterparts, using deepslate instead of stone.
+---
 
-Nether gold ore and Nether quartz ore can be crafted from four raw gold or quartz and five netherrack.
+## 📜 Feature Overview
 
-Four calcite can be crafted from two dripstone blocks and two pieces of quartz.
+### 📁 `some_renewable_resources`
 
-Four netherrack can be crafted from two nether wart blocks and two deepslate.
+#### Blocks & Items
 
-Gilded blackstone can be crafted from one blackstone and eight gold nuggets.
+* **Spore Blossoms** – May appear in wandering trader offers (50% chance)
+* **Tall Grass & Large Ferns** – Can be collected via shears from the bottom block
+* **Dead Bushes** – Smelt from tall flowers (Peony, Lilac, Rose Bush)
+* **Suspicious Blocks** – Can be duplicated via crafting with gravel/sand
+  (Initial source: bubble columns or cobweb delay)
+* **Raw Ore Recipes** – Craft ores using ingots/raw items + flint
+  (Coal, Iron, Gold, Diamond, Lapis, Emerald, Redstone, Copper, etc.)
+* **Deepslate Variants** – Use deepslate instead of stone for ore recipes
+* **General Blocks**
 
-copper, Iron, gold, and diamond horse armor can be crafted from six iron ingots, gold ingots, or diamonds in an 'h' shape and a saddle in the bottom-center.
+  * Tuff: 2 Andesite + 2 Deepslate → 4 Tuff
+  * Calcite: 2 Dripstone + 2 Quartz → 4 Calcite
+  * Netherrack: 2 Nether Wart Blocks + 2 Deepslate → 4 Netherrack
+  * Gilded Blackstone: 1 Blackstone + 8 Gold Nuggets
+* **Horse Armor** – Craftable (Copper, Iron, Gold, Diamond) using 6 ingots/gems + 1 Saddle
+* **Pottery Sherds** – Gifted by masons, based on biome
+* **Enchanted Books** – Gifted by librarians, includes rare books like *Swift Sneak* & *Wind Burst*
+* **Echo Shards** – 1 Sculk Catalyst + 8 Amethyst Shards → 8 Echo Shards
+* **Disc Fragments** – 9 from a Music Disc "5"
+* **Heart of the Sea** – 1 Nether Star + 4 Buckets of Fish (Cod, Salmon, Tropical, Pufferfish)
+* **Heavy Core** – 1 Nether Star + 8 Obsidian
+* **Enchanted Golden Apple** – Crafted from Golden Apple + 4 Gold Blocks + 4 Diamond Blocks
+  *(Endgame content; encourages automated wither & gold farming)*
 
-All pottery sherds can be given as gifts by mason villagers. The available sherds depend on the biome. In biomes without archeological structures, the trial chamber sherds (flow, guster, scrape) are given instead.
+#### Mob Drops & Behavior
 
-Enchanted books—including ones with Swift Sneak or Wind Burst—can be given as gifts by librarian villagers.
+* **Piglin Brutes** – Chance to drop **Ancient Debris** (Looting affects chance)
+* **Ender Dragon** – Drops **Elytra**, **Dragon Head**, and 1⁄5 chance for **Dragon Egg**
+* **Wither** – Drops **Diamonds** in addition to Nether Star
+* **Husks** – Drop **Sand** on death (alternative to gravity duping, still avaliable)
 
-Nine disc fragments can be crafted from music disc "5".
+---
 
-Eight echo shards can be crafted from a sculk catalyst and eight amethyst shards.
+### 📁 `discs_pattern_crafting`
 
-An enchanted golden apple can be crafted from a golden apple, four blocks of gold, and four diamonds blocks. I know the recipe is a bit insane, 
-but this is to promote creating a wither skeleton farm, a wither farm and a gold farm to make them farmable. The ultimate endgame goal.
+#### Banner Patterns
 
-A Piglin Brute has a chance to drop ancient debris when killed by a player, looting increase chances.
+* **Globe Banner** – Now has a crafting recipe for consistency
+* **Flow**, **Guster**, **Snout** – Previously vault/structure-exclusive; now craftable
 
-An Ender Dragon drops a dragon head and a pair of elytra, and it has a 1⁄5 chance of dropping a dragon egg.
+#### Music Discs (Craftable)
 
-A Wither drops some diamonds on death (in addition to the Nether star).
+* `music_disc_5` – Previously only crafted via disc fragments
+* `music_disc_creator` – Previously obtained from ominous vaults
+* `music_disc_creator_music_box` – Previously from trial chamber pots
+* `music_disc_otherside` – Loot chest exclusive
+* `music_disc_pigstep` – Bastion exclusive
+* `music_disc_precipice` – Vault exclusive
+* `music_disc_relic` – Previously from brushing suspicious gravel
 
-Husks drops some sand on death, sand is renewable using gravity dupe but it is not a intended mechanic.
-    
-A heart of the sea can be crafted from a Nether star and four buckets of fish: one cod, one salmon, one tropical fish, and one pufferfish.
+**Note:** Discs already obtainable through vanilla survival means were intentionally excluded from crafting recipes.
 
-A heavy core can be crafted from a Nether star and eight obsidian.
+---
+
+### ⚡ `lightning_conversion`
+
+* **Piglins → Piglin Brutes** when struck by lightning
+* **Guardians → Elder Guardians** when struck by lightning
+
+---
+
+## 🧪 Known Issues
+
+* Suspicious blocks placed by players do **not** drop loot when brushed (vanilla behavior)
 
 
-## discs_pattern_crafting:
-Globe banner pattern is in vanilla as a master cartographer trade, (disabled by default) recipe added for consistency to make all banner craftable.
-
-flow_banner_pattern (previously only obtained through ominous vaults)
-guster_banner_pattern (previously only obtained through trial chamber vaults)
-piglin_banner_pattern [Snout] (previously only found in bastions)
-
-All discs obtainable through vanilla means do not have a recipe in this case to encourage other ways of disc farming.
-
-music_disc_5 (previously only crafted from disc fragments found in ancient cities)
-music_disc_creator (previously only obtained through ominous vaults)
-music_disc_creator_music_box (previously only obtained through trial chamber pots)
-music_disc_otherside (previously found in loot chests in various structures)
-music_disc_pigstep (previously only found in bastions)
-music_disc_precipice (previously only obtained through trial chamber vaults)
-music_disc_relic (previously found by brushing suspicious gravel)
-
-## lightning_conversion
-Adult piglins will be converted into piglin brutes when struck by lightning.
-
-Guardians will be converted into elder guardians when struck by lightning.
