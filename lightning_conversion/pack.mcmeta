@@ -1,6 +1,10 @@
- {
-       "pack": {
-           "pack_format": 82,
-           "description": "Elder Guardian and Piglin Brutes from lightning strikes"
-       }
-   }
+{
+    "pack": {
+        "pack_format": 81,
+        "description": "Convert guardians and piglins with lightning",
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 81
+        }
+    }
+}
