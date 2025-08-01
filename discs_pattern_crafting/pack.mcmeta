@@ -1,10 +1,10 @@
 {
     "pack": {
-        "pack_format": 82,
+        "pack_format": 81,
         "description": "recipes for music discs and banner patterns that are not renewable",
         "supported_formats": {
             "min_inclusive": 48,
-            "max_inclusive": 82
+            "max_inclusive": 81
         }
     }
 }
