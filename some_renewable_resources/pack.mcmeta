@@ -1,6 +1,10 @@
 {
     "pack": {
-        "description": "basic tweaks to recipes and loot table to make many things renewable",
-        "pack_format": 82
+        "pack_format": 81,
+        "description": "basic changes to recipes and loot table",
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 81
+        }
     }
 }
