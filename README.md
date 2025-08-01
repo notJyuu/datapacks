@@ -1,6 +1,6 @@
-# 🌿 Minecraft Renewable Everything Datapacks
+# 🛠️ JyuuTech Datapacks
 
-A collection of three Minecraft datapacks designed to make nearly **every item renewable or farmable** in **Survival Mode**, while preserving game balance and the vanilla feel. Great for long-term survival worlds, skyblock challenges, or anyone who wants full self-sufficiency.
+A collection of datapacks designed to make nearly **every item renewable or farmable** in **Survival Mode**, while somewhat preserving game balance with a minimal performance impact.
 
 ## 📦 Included Datapacks
 
