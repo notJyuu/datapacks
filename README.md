@@ -1,8 +1,7 @@
 # Datapacks
 datapacks used in the JyuuTech world
 ## some_renewable_resources:
-Spore blossoms may be offered by wandering traders (in addition to their usual trades). This has a 50% chance of occurring
-Called in the in the tick function.
+Spore blossoms may be offered by wandering traders (in addition to their usual trades). This has a 50% chance of occurring.
 
 Tall grass and large ferns can be obtained by breaking their bottom half with shears, breaking the top half will still drop their one block counterparts.
 
