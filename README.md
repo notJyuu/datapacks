@@ -42,6 +42,7 @@ A collection of datapacks designed to make nearly **every item renewable or farm
   (Initial source: bubble columns or cobweb delay)
 * **Raw Ore Recipes** – Craft ores using ingots/raw items + flint
   (Coal, Iron, Gold, Diamond, Lapis, Emerald, Redstone, Copper, etc.)
+* **Deepslate Variants** – Smelt from smooth stone
 * **Deepslate Variants** – Use deepslate instead of stone for ore recipes
 * **General Blocks**
 
