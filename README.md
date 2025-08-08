@@ -100,5 +100,5 @@ A collection of datapacks designed to make nearly **every item renewable or farm
 ## 🧪 Known Issues
 
 * Suspicious blocks placed by players do **not** drop loot when brushed (vanilla behavior)
-
+* Several items are technically renewable with 129+ players in the vanilla game through the use of vaults. The focus of this datapack is for everything to be possible in singleplayer.
 
