@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"#-#",
+		"-#-",
+		"#-#"
+	],
+	"key": {
+		"-": "minecraft:lapis_block",
+		"#": "minecraft:deepslate"
+	},
+	"result": {
+		"id": "minecraft:deepslate_lapis_ore"
+	},
+	"group": "ore"
+}

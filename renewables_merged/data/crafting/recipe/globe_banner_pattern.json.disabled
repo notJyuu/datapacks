@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:grass_block"
+  ],
+  "result": {
+    "id": "minecraft:globe_banner_pattern"
+  }
+}

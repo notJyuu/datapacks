@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "music_discs",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#g#",
+    "###"
+  ],
+  "key": {
+    "#": [
+      "minecraft:brick"
+    ],
+    "g": [
+      "minecraft:diamond"
+    ]
+  },
+  "result": {
+    "id": "minecraft:music_disc_relic"
+  }
+}

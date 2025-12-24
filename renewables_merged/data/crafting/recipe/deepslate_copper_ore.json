@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"#c#",
+		"C#C",
+		"#c#"
+	],
+	"key": {
+		"c": "minecraft:raw_copper",
+		"C": "minecraft:raw_copper_block",
+		"#": "minecraft:deepslate"
+	},
+	"result": {
+		"id": "minecraft:deepslate_copper_ore"
+	},
+	"group": "ore"
+}

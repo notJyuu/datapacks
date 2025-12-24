@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:iron_ingot",
+    "N": [
+      "minecraft:nautilus_shell"
+    ]
+  },
+  "pattern": [
+    "AAA",
+    "ANA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_nautilus_armor"
+  }
+}
