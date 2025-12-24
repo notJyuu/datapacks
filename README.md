@@ -51,6 +51,7 @@ A collection of datapacks designed to make nearly **every item renewable or farm
   * Netherrack: 2 Nether Wart Blocks + 2 Deepslate → 4 Netherrack
   * Gilded Blackstone: 1 Blackstone + 8 Gold Nuggets
 * **Horse Armor** – Craftable (Copper, Iron, Gold, Diamond) using 6 ingots/gems + 1 Saddle
+* **Nautilus Armor** – Craftable (Copper, Iron, Gold, Diamond) using 8 ingots/gems
 * **Pottery Sherds** – Gifted by masons, based on biome
 * **Enchanted Books** – Gifted by librarians, includes rare books like *Swift Sneak* & *Wind Burst*
 * **Echo Shards** – 1 Sculk Catalyst + 8 Amethyst Shards → 8 Echo Shards
